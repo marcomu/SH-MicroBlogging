@@ -1,7 +1,7 @@
 twitter Killer by Markintosh
-Beta version 1.0
 ---------------
 MicroBloggin based on ShellScript
+Beta version 1.0
 
 1) execute ./bienvenido.sh
 2) create your profile
@@ -10,5 +10,4 @@ MicroBloggin based on ShellScript
 5) if your feel alone, connect another dude via ssh to the same folder.
 
 - This program was developed for educational purposes on Facultad de Ingeniería, UNAM. Mexico DF.
-
 MIT LICENSE
