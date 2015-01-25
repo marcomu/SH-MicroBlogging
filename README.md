@@ -1,6 +1,6 @@
 twitter Killer by Markintosh
-Beta version 1.0
 ---------------
+Beta version 1.0
 MicroBloggin based on ShellScript
 
 1) execute ./bienvenido.sh
