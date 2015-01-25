@@ -1,6 +1,5 @@
 twitter Killer by Markintosh
 ---------------
-Beta version 1.0
 MicroBloggin based on ShellScript
 Beta version 1.0
 
@@ -11,4 +10,5 @@ Beta version 1.0
 5) if your feel alone, connect another dude via ssh to the same folder.
 
 - This program was developed for educational purposes on Facultad de Ingeniería, UNAM. Mexico DF.
+
 MIT LICENSE
