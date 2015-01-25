@@ -1,5 +1,6 @@
 twitter Killer by Markintosh
 ---------------
+Beta version 1.0
 MicroBloggin based on ShellScript
 Beta version 1.0
 
